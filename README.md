@@ -9,6 +9,7 @@ ARIMA examples
 - ARIMA API <http://www.statsmodels.org/dev/generated/statsmodels.tsa.arima_model.ARIMA.html>
 - Example notebook <http://www.statsmodels.org/dev/examples/notebooks/generated/tsa_arma_0.html>
 - ARIMA and SARIMA example presentatio <http://josef-pkt.github.io/pages/slides/slides_forecasting.slides.html#/>
+- SARIMA example <https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3>
 
 Forecasting 
 - Forecasting: principles and practice <https://www.otexts.org/fpp>
