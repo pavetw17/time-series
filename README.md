@@ -23,3 +23,5 @@ Forecasting
  <https://www.digitalocean.com/community/tutorial_series/time-series-visualization-and-forecasting>
 - Time-Critical Decision Making for Business Administration <http://home.ubalt.edu/ntsbarsh/stat-data/Forecast.htm>
 
+LSTM for prediction
+- <http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html>
