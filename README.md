@@ -25,3 +25,4 @@ Forecasting
 
 LSTM for prediction
 - <http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html>
+- <https://github.com/mouradmourafiq/tensorflow-lstm-regression>
