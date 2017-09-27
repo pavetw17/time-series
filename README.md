@@ -27,3 +27,9 @@ LSTM for prediction
 - <http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html>
 - <https://github.com/mouradmourafiq/tensorflow-lstm-regression>
 - <https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f>
+- <http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/>
+- <https://gist.github.com/hnykda/f1eca6cb0061cde701c2>
+- <https://gist.github.com/Nemitek/31ccafbfceac2ed88974>
+- <https://www.kaggle.com/pablocastilla/predict-stock-prices-with-lstm>
+- <https://sflscientific.com/data-science-blog/2017/2/10/predicting-stock-volume-with-lstm>
+
